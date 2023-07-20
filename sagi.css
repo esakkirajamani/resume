@@ -1,0 +1,90 @@
+body {
+  background-image: linear-gradient(rgb(149, 191, 223), rgb(255, 255, 255), rgb(128, 218, 128));
+
+  font-family: Times New Roman, sans-serif;
+  line-height: 1.4;
+  font-weight: normal;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-image: linear-gradient(rgb(128, 218, 128), rgb(202, 217, 217), rgb(149, 191, 223));
+  color: #3d3a3a;
+
+  border-bottom: 1px solid #12bbca;
+  text-align: center;
+  padding: 1rem 0;
+}
+
+h1 {
+  font-size: 2.5rem;
+}
+
+h2 {
+  margin-top: 1.5rem;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 0.5rem;
+}
+.experience {
+  
+
+  border-bottom: 1px solid #12bbca;
+  padding: 1rem;
+}
+.education {
+ 
+  border-bottom: 1px solid #12bbca;
+  padding: 1rem;
+}
+.contact-info {
+ 
+  border-bottom: 1px solid #12bbca;
+  padding: 1rem;
+}
+
+.dec {
+  
+  border-bottom: 1px solid #12bbca;
+  padding: 1rem;
+}
+
+.strength {
+  
+  border-bottom: 1px solid #12bbca;
+  padding: 1rem;
+}
+
+.sports {
+  
+  border-bottom: 1px solid #12bbca;
+  padding: 1rem;
+  
+}
+
+.objective {
+ 
+  border-bottom: 1px solid #12bbca;
+  padding: 1rem;
+}
+
+.skills {
+  
+  border-bottom: 1px solid #12bbca;
+  padding: 1rem;
+}
+
+.skills li {
+  display: inline-block;
+  background-color: #f4f4f4;
+  border-radius: 5px;
+  padding: 0.5rem;
+  margin-right: 0.5rem;
+}
